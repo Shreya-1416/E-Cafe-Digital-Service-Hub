@@ -11,7 +11,6 @@ A full-stack web platform designed to provide digital services like form filling
 ## Tech Stack
 - Frontend: HTML, CSS, JavaScript
 - Backend: Python / Node.js
-- Database: (if used)
 
 ## Purpose
 To simplify access to digital services for users in a centralized platform.
